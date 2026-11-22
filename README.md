@@ -5,7 +5,7 @@
 [![OpenAI CLIP](https://img.shields.io/badge/Model-OpenAI%20CLIP-412991.svg)](https://github.com/openai/CLIP)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-Ce dépôt contient l'implémentation complète, les analyses expérimentales et le compte rendu scientifique réalisés dans le cadre du TP sur l'apprentissage de représentations bimodales **CLIP** (*Contrastive Language–Image Pre-training*) en Master 2 Informatique.
+Ce dépôt est réalisés dans le cadre du TP sur l'apprentissage de représentations bimodales **CLIP** (*Contrastive Language–Image Pre-training*) en Master 2 VMI 2026-2027 de l'Université Paris Cité.
 
 ---
 
